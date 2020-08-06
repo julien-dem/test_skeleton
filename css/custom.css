@@ -32,7 +32,7 @@
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
-  background-image: url('https://cdn.glitch.com/d6d1cd77-8684-40db-8120-72b5e6a8dc62%2Fthumbnails%2Fvalues-bg.jpg?1596704685668');
+  background-image: url('images/values-bg.jpg');
   background-size: cover;
   color: #fff;
   padding-bottom: 5rem;
@@ -58,7 +58,7 @@
 /* Categories
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .categories {
-  background-image: url('https://cdn.glitch.com/d6d1cd77-8684-40db-8120-72b5e6a8dc62%2Fthumbnails%2Fvalues-bg.jpg?1596704685668');
+  background-image: url('images/values-bg.jpg');
   background-size: cover;
   color: #fff;
 }
